@@ -1,2 +1,4 @@
-# projeto_final
-Projeto final desenvolvido em Flutter como parte do Prossel Trainee da TITAN. 
+# Fruit Hub
+
+Projeto final "Fruit Hub" desenvolvido em Flutter como parte do Prossel Trainee da TITAN. 
+
